@@ -8,7 +8,6 @@
 # Site Settings
 title                    : "Xuejun Zhang"
 description              : |
-Undergraduate @ SLED @Umich @SJTU
 Curiosity is the lust of the mind.
 To infinity and beyond!
 repository               : "xuejunzhang2002/xuejunzhang2002.github.io"
@@ -26,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuejun Zhang"
   avatar           : "images/personal_image.jpg"
-  bio              : "UMich | SJTU"
+  bio              : "Undergraduate @Umich @SJTU @ SLED"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
