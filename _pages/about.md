@@ -67,8 +67,8 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 -->
 
 # 💻 Positions
-- *2022.08-2022.12:*, Teaching Assistant of Academic Writing.
-- *2022.02-Present:*, Advisor of UMJI Advising Center
+- *2022.08-2022.12:* Teaching Assistant of Academic Writing.
+- *2022.02-Present:* Advisor of UMJI Advising Center
 
 <br>
 
