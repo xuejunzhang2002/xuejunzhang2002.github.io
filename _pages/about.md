@@ -21,8 +21,12 @@ Here is **Xuejun Zhang**.
 
 I am a rising senior majoring **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
 
-My research interest includes Natural Language Processing and Multimodal Learning, and is now a member of SLED lab. Feel free to contact me if you have similar research interests.
+My research is driven by a deep curiosity to explore intelligence, mainly focusing on natural language processing (NLP) and multimodal learning. Currently, I am particularly interested in:
+1. **Alignment between Modalities:** Investigating methods to achieve precise alignment across different modalities, bridging the inherent differences in modality-specific feature spaces.
 
+2. **Mechanistic Understanding of Models:** Analyzing the internal workings of machine learning models to enhance their interpretability and reliability.
+
+3. **Contextual Learning and Adaptation:** Exploring in-context learning, one-shot, and few-shot learning to investigate how models generalize across varied tasks.
 
 # 🔥 News
 - *2024.06:* &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
