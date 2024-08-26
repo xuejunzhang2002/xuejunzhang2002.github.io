@@ -25,7 +25,7 @@ My research interest includes Natural Language Processing and Multimodal Learnin
 
 
 # 🔥 News
-- *2024.06:*: &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
+- *2024.06:* &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
   [Click here to read the paper on arxiv](https://arxiv.org/abs/2407.06192)
 
 # 📝 Publications 
