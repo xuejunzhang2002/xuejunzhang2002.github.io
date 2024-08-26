@@ -19,7 +19,7 @@ redirect_from:
 
 Here is **Xuejun Zhang**.
 
-I am a rising senior majoring **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
+I am a senior majoring **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
 
 My research is driven by a deep curiosity to explore intelligence, mainly focusing on natural language processing (NLP) and multimodal learning. Currently, I am particularly interested in:
 1. **Alignment between Modalities:** Investigating methods to achieve precise alignment across different modalities, bridging the inherent differences in modality-specific feature spaces.
