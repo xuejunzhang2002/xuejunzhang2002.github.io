@@ -47,12 +47,18 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11* First Place in Tennis Team Event at the 49th Shanghai Jiao Tong University Sports Meet
+- *2022.12* 2021-2022 Academic Year Merit Scholarship at Shanghai Jiao Tong University
+- *2023.5* Outstanding Winner and AMS Award in Interdisciplinary Contest In Modeling
+- *2023.5* Runner-up in Tennis Team Event at the 2023 Shanghai Jiao Tong University General Cup
+- *2023.7* Future Technology Taihu Scholarship
+- *2023.12* Dean's Honor List & University Honors
+- *2024.5* Dean's Honor List & University Honors (Every semester at Umich)
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06 (now)*, Shanghai Jiaotong University. 
+- *2023.08 - 2025.05 (now)*, University of Michigan. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
