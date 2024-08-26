@@ -60,9 +60,11 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 - *2021.09 - 2025.06 (now)*, Shanghai Jiaotong University. 
 - *2023.08 - 2025.05 (now)*, University of Michigan. 
 
+<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
