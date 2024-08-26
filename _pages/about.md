@@ -19,7 +19,7 @@ redirect_from:
 
 Here is **Xuejun Zhang**.
 
-I am a rising senior majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
+I am a rising senior majoring **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
 
 My research interest includes Natural Language Processing and Multimodal Learning, and is now a member of SLED lab. Feel free to contact me if you have similar research interests.
 
