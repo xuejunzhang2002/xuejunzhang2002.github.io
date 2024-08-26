@@ -66,5 +66,14 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Positions
+- *2022.08-2022.12*, Teaching Assistant of Academic Writing.
+- *2022.02-Present*, Advisor of UMJI Advising Center
+
+<br>
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">🎉Happy to share my first paper &quot;Multi-Object Hallucination in Vision-Language Models&quot; in <a href="https://twitter.com/hashtag/ALVR?src=hash&amp;ref_src=twsrc%5Etfw">#ALVR</a> at <a href="https://twitter.com/hashtag/ACL2024?src=hash&amp;ref_src=twsrc%5Etfw">#ACL2024</a>! Do VLMs hallucinate more in multi-object scenes? Shortcuts? Spurious correlations? What factors contribute to their hallucinations? 👀<br>🔗<a href="https://t.co/5VsTym5BR3">https://t.co/5VsTym5BR3</a> 🧵[1/n] <a href="https://t.co/CXboiIKL0s">pic.twitter.com/CXboiIKL0s</a></p>
+&mdash; Xuejun Zhang (@eva_xuejunzhang) <a href="https://twitter.com/eva_xuejunzhang/status/1810509641849430267?ref_src=twsrc%5Etfw">July 9, 2024</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
