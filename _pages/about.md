@@ -30,7 +30,7 @@ My research interest includes Natural Language Processing and Multimodal Learnin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALVR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALVR 2024</div><img src='images/mohhh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2407.06192)
