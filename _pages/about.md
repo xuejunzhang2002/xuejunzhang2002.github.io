@@ -26,7 +26,7 @@ My research is driven by a deep curiosity to explore intelligence, mainly focusi
 
 2. **Mechanistic Understanding of Models:** Analyzing the internal workings of machine learning models to enhance their interpretability and reliability.
 
-3. **Contextual Learning and Adaptation:** Exploring techniques like in-context learning, one-shot, and few-shot learning to understand and improve model performance across varied tasks.
+3. **Inference Time Learning:** Exploring techniques like in-context learning, one-shot, and few-shot learning to understand and improve model performance across varied tasks.
 
 # 🔥 News
 - *2024.06:* &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
