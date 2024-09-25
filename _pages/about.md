@@ -31,10 +31,11 @@ My research is driven by a deep curiosity to explore intelligence, mainly focusi
 # 🔥 News
 - *2024.06:* &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
   [Click here to read the paper on arxiv](https://arxiv.org/abs/2407.06192)
+  - *2024.09:* &nbsp;🎉🎉 "Multi-Object Hallucination in Vision-Language Models" is accepted by NeurIPS 2024!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ALVR 2024</div><img src='images/mohhh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mohhh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2407.06192)
