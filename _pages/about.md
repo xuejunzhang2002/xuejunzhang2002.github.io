@@ -28,10 +28,12 @@ My research is driven by a deep curiosity to explore intelligence, mainly focusi
 
 3. **Inference Time Learning:** Exploring techniques like in-context learning, one-shot, and few-shot learning to understand and improve model performance across varied tasks.
 
+**I'm actively seeking a PhD position starting in Fall 2025!**
+
 # 🔥 News
 - *2024.06:* &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
   [Click here to read the paper on arxiv](https://arxiv.org/abs/2407.06192)
-  - *2024.09:* &nbsp;🎉🎉 "Multi-Object Hallucination in Vision-Language Models" is accepted by NeurIPS 2024!
+- *2024.09:* &nbsp;🎉🎉 "Multi-Object Hallucination in Vision-Language Models" is accepted by NeurIPS 2024!
 
 # 📝 Publications 
 
@@ -71,9 +73,11 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Positions
+# 💻 Positions and Public Service
 - *2022.08-2022.12:* Teaching Assistant of Academic Writing.
 - *2022.02-Present:* Advisor of UMJI Advising Center
+- Reviewer of ARR
+- Reviewer of ICLR2025
 
 <br>
 
