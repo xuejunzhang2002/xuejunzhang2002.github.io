@@ -89,6 +89,6 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 
 
 <div style="width: 100%; max-width: 800px; margin: auto; position: relative;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_nuwuGxrO4EL7kUg2Tmj-51aD2fY6OjzyZn6q6YrA2g"></script>
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=b7bbce&amp;w=a&amp;t=n&amp;d=z4YwVPEqLess2QRcopfZP470E6z9y3FHwqrYKv6f2AM&amp;co=ffffff&amp;cmn=fff200&amp;cmo=ff0000&amp;ct=000000"></script>
 </div>
 <p align="left" style="display: none;"> <img src="https://komarev.com/ghpvc/?username=xuejunzhang2002&label=Profile%20views&color=0e75b6&style=flat" alt="xuejunzhang2002" /> </p>
