@@ -64,8 +64,8 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now):*, Shanghai Jiaotong University. 
-- *2023.08 - 2025.05 (now):*, University of Michigan. 
+- *2021.09 - 2025.06 (now):* Shanghai Jiaotong University. 
+- *2023.08 - 2025.05 (now):* University of Michigan. 
 
 <!-- 
 # 💬 Invited Talks
