@@ -17,16 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is **Xuejun Zhang**.
+Here is **Xuejun Zhang**. I am a senior double majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by Professor Joyce Chai.
 
-I am a senior majoring **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
-
-My research is driven by a deep curiosity to explore intelligence, mainly focusing on natural language processing (NLP) and multimodal learning. Currently, I am particularly interested in:
-1. **Alignment between Modalities:** Investigating methods to achieve precise alignment across different modalities, bridging the inherent differences in modality-specific feature spaces.
-
-2. **Mechanistic Understanding of Models:** Analyzing the internal workings of machine learning models to enhance their interpretability and reliability.
-
-3. **Inference Time Learning:** Exploring techniques like in-context learning, one-shot, and few-shot learning to understand and improve model performance across varied tasks.
+My research explores the fundamental question of whether artificial intelligence can achieve true understanding, with a focus on multimodal learning and natural language processing (NLP). I am particularly interested in:
+1. **Evaluation of Multimodal Understanding:** Developing systematic evaluation methodologies to expose limitations in how models process and integrate information across modalities.
+2. **Alignment and Model Capabilities:** Investigating methods for aligning models toward different forms of understanding while preserving their core capabilities.
+3. **Mechanistic Interpretability:** Analyzing the internal mechanisms of neural networks to understand how they construct representations and process multimodal information.
 
 **I'm actively seeking a PhD position starting in Fall 2025!**
 
