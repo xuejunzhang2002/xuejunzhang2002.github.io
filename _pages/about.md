@@ -57,7 +57,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 - *2023.7:* Future Technology Taihu Scholarship
 - *2023.12:* Dean's Honor List & University Honors
 - *2024.5:* Dean's Honor List & University Honors (Every semester at Umich)
-
+- *2024.10:* NeurIPS 2024 Scholar Award
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now):* Shanghai Jiaotong University. 
