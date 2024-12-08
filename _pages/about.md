@@ -25,6 +25,8 @@ My research explores the fundamental question of whether artificial intelligence
 3. **Mechanistic Interpretability:** Analyzing the internal mechanisms of neural networks to understand how they construct representations and process multimodal information.
 
 **I'm actively seeking a PhD position starting in Fall 2025!**
+
+
 📄 [CV](/files/CV.pdf)  
 📝 [Research Statement](/files/research_statement.pdf)
 
