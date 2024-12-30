@@ -179,6 +179,17 @@ body:hover .visually-hidden button {
   vertical-align: middle;
 }
 
+.icon-zhihu {
+  display: inline-block;
+  width: 1em;
+  height: 1em; 
+  line-height: 1;
+  position: relative;
+  top: -0.1em;
+  vertical-align: middle;
+  object-fit: contain; 
+}
+
 /* social icons*/
 
 .social-icons {
