@@ -50,7 +50,10 @@
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.zhihu %}
-      <p style="text-indent:0;"><a href="{{ author.zhihu }}"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png" width="5" height="5"></i> Zhihu</a></p>
+        <li><a href="{{ author.zhihu }}">
+          <img class="icon" src="https://caihanlin.com/images/logo/icons8-zhihu-96.png" alt="Zhihu"> Zhihu
+        </a></li>
+      {% endif %}
       {% endif %}
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a></li>
