@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is **Xuejun Zhang**. I am a senior double majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by Professor Joyce Chai.
+Here is **Xuejun Zhang**. I am a senior double majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by Professor Joyce Chai. I am an incoming CS PhD student at UIUC, advised by Prof. <a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji</a>.
 
 My research explores the fundamental question of whether artificial intelligence can achieve true understanding, with a focus on multimodal learning and natural language processing (NLP). I am particularly interested in:
 1. **Evaluation of Multimodal Understanding:** Developing systematic evaluation methodologies to expose limitations in how models process and integrate information across modalities.
 2. **Alignment and Model Capabilities:** Investigating methods for aligning models toward different forms of understanding while preserving their core capabilities.
 3. **Mechanistic Interpretability:** Analyzing the internal mechanisms of neural networks to understand how they construct representations and process multimodal information.
-
-**I'm actively seeking a PhD position starting in Fall 2025!**
 
 
 📄 [CV](/files/CV.pdf)  
