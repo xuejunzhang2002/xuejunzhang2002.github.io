@@ -24,8 +24,8 @@ My research explores the fundamental question of whether artificial intelligence
 3. **Mechanistic Interpretability:** Analyzing the internal mechanisms of neural networks to understand how they construct representations and process multimodal information.
 
 
-📄 [CV](/files/CV.pdf)  
-📝 [Research Statement](/files/research_statement.pdf)
+<!-- 📄 [CV](/files/CV.pdf)  -->
+<!-- 📝 [Research Statement](/files/research_statement.pdf) -->
 
 # 🔥 News
 - *2024.06:* &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
