@@ -28,9 +28,8 @@ My research explores the fundamental question of whether artificial intelligence
 <!-- 📝 [Research Statement](/files/research_statement.pdf) -->
 
 # 🔥 News
-- *2024.06:* &nbsp;🎉🎉 Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
-  [Click here to read the paper on arxiv](https://arxiv.org/abs/2407.06192)
 - *2024.09:* &nbsp;🎉🎉 "Multi-Object Hallucination in Vision-Language Models" is accepted by NeurIPS 2024!
+- *2025.06:* I graduated from the University of Michigan with Summa Cum Laude honors!
 
 # 📝 Publications 
 
