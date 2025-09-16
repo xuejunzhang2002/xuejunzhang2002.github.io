@@ -16,20 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm **Xuejun Zhang**, a senior double majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University and Data Science at University of Michigan. Currently serving as an undergraduate research assistant in the SLED Research Lab advised by Prof. <a href="https://web.eecs.umich.edu/~chaijy/">Joyce Chai</a>, I'll be joining UIUC as a CS PhD student in the fall under the guidance of Prof. <a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji</a>.
-
-My research explores the fundamental question of whether artificial intelligence can achieve true understanding, with a focus on multimodal learning and natural language processing (NLP). I am particularly interested in:
-1. **Evaluation of Multimodal Understanding:** Developing systematic evaluation methodologies to expose limitations in how models process and integrate information across modalities.
-2. **Alignment and Model Capabilities:** Investigating methods for aligning models toward different forms of understanding while preserving their core capabilities.
-3. **Mechanistic Interpretability:** Analyzing the internal mechanisms of neural networks to understand how they construct representations and process multimodal information.
-
+I'm **Xuejun Zhang**, a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. <a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji</a>. My research interests lie in multimodal learning. Before joining UIUC, I received a dual bachelor’s degree from Shanghai Jiao Tong University and the University of Michigan, where I worked with Prof. <a href="https://web.eecs.umich.edu/~chaijy/">Joyce Chai</a>.
 
 <!-- 📄 [CV](/files/CV.pdf)  -->
-<!-- 📝 [Research Statement](/files/research_statement.pdf) -->
 
 # 🔥 News
-- *2024.09:* &nbsp;🎉🎉 "Multi-Object Hallucination in Vision-Language Models" is accepted by NeurIPS 2024!
+- *2025.08:* I started my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign!
+- *2025.08:* I graduated from Shanghai Jiao Tong University with the Outstanding Graduate honor!
 - *2025.06:* I graduated from the University of Michigan with Summa Cum Laude honors!
+- *2024.09:* &nbsp;🎉🎉 "Multi-Object Hallucination in Vision-Language Models" is accepted by NeurIPS 2024!
+
 
 # 📝 Publications 
 
