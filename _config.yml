@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuejun Zhang"
   avatar           : "images/personal_image.jpg"
-  bio              : "Undergraduate @Umich @SJTU @ SLED"
-  location         : "Ann Arbor, MI"
+  bio              : "PhD student @UIUC, prev @Umich @SJTU"
+  location         : "Champaign, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=l2Kpd2wAAAAJ"
-  email            : "xuejunzh@umich.edu"
+  email            : "xuejunz2@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
