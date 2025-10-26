@@ -41,7 +41,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 </div>
-</div>
+</div> 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
