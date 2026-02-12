@@ -73,8 +73,9 @@ Ziqiao Ma\*, Jing Ding\*, **Xuejun Zhang**, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuc
 - *2023.7:* Future Technology Taihu Scholarship
 - *2024.5:* Dean's Honor List & University Honors (Every semester at Umich)
 - *2024.10:* NeurIPS 2024 Scholar Award
-- *2025.08:* Outstanding Graduate, Shanghai Jiao Tong University
 - *2025.06:* Summa Cum Laude, University of Michigan
+- *2025.08:* Outstanding Graduate, Shanghai Jiao Tong University
+
 
 # 📖 Educations
 - *2023.08 - 2025.05:* University of Michigan. 
