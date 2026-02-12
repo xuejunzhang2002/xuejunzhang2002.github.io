@@ -46,7 +46,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/refer_page_001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation
+[Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation](https://arxiv.org/pdf/2504.16060?)
 
 Ziqiao Ma\*, Jing Ding\*, **Xuejun Zhang**, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuchen Huang, Run Peng, Joyce Chai
 
@@ -56,7 +56,7 @@ Ziqiao Ma\*, Jing Ding\*, **Xuejun Zhang**, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/camcue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning
+[Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning](https://arxiv.org/pdf/2602.06041)
 
 **Xuejun Zhang**, Aditi Tiwari, Zhenhailong Wang, Heng Ji
 
