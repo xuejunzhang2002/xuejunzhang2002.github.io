@@ -90,7 +90,6 @@ Ziqiao Ma\*, Jing Ding\*, **Xuejun Zhang**, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuc
 # 💻 Positions and Public Service
 - *2022.08-2022.12:* Teaching Assistant of Academic Writing.
 - *2022.02-Present:* Advisor of UMJI Advising Center
-- Reviewer of ARR, ICLR
 
 <br>
 
