@@ -77,8 +77,9 @@ Ziqiao Ma\*, Jing Ding\*, **Xuejun Zhang**, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuc
 - *2025.06:* Summa Cum Laude, University of Michigan
 
 # 📖 Educations
-- *2021.09 - 2025.07:* Shanghai Jiaotong University. 
 - *2023.08 - 2025.05:* University of Michigan. 
+- *2021.09 - 2025.07:* Shanghai Jiaotong University. 
+- *2025.08 - now:* University of Illinois Urbana-Champaign. 
 
 <!-- 
 # 💬 Invited Talks
