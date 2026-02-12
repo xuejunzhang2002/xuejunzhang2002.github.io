@@ -43,6 +43,18 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/refer_page_001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation
+
+*Published as a conference paper at COLM 2025*
+
+Ziqiao Ma\*1,2,4, Jing Ding\*1,3, **Xuejun Zhang**1, Dezhi Luo2,4, Jiahe Ding1, Sihan Xu1, Yuchen Huang1, Run Peng1, Joyce Chai1
+
+</div>
+</div> 
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
