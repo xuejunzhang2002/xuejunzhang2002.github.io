@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm **Xuejun Zhang**, a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. <a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji</a>. My research interests lie in multimodal learning. Before joining UIUC, I received a dual bachelor’s degree from Shanghai Jiao Tong University and the University of Michigan, where I worked with Prof. <a href="https://web.eecs.umich.edu/~chaijy/">Joyce Chai</a>.
+I'm **Xuejun Zhang**, a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. <a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji</a>. My research interests lie in natural language processing and multimodal learning. Before joining UIUC, I received a dual bachelor’s degree from Shanghai Jiao Tong University and the University of Michigan, where I worked with Prof. <a href="https://web.eecs.umich.edu/~chaijy/">Joyce Chai</a>.
 
 <!-- 📄 [CV](/files/CV.pdf)  -->
 
