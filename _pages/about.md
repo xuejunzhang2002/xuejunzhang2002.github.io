@@ -71,13 +71,14 @@ Ziqiao Ma\*, Jing Ding\*, **Xuejun Zhang**, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuc
 - *2023.5:* Outstanding Winner and AMS Award in Interdisciplinary Contest In Modeling
 - *2023.5:* Runner-up in Tennis Team Event at the 2023 Shanghai Jiao Tong University General Cup
 - *2023.7:* Future Technology Taihu Scholarship
-- *2023.12:* Dean's Honor List & University Honors
 - *2024.5:* Dean's Honor List & University Honors (Every semester at Umich)
 - *2024.10:* NeurIPS 2024 Scholar Award
+- *2025.08:* Outstanding Graduate, Shanghai Jiao Tong University
+- *2025.06:* Summa Cum Laude, University of Michigan
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now):* Shanghai Jiaotong University. 
-- *2023.08 - 2025.05 (now):* University of Michigan. 
+- *2021.09 - 2025.07:* Shanghai Jiaotong University. 
+- *2023.08 - 2025.05:* University of Michigan. 
 
 <!-- 
 # 💬 Invited Talks
