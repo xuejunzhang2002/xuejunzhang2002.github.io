@@ -29,17 +29,13 @@ I'm **Xuejun Zhang**, a first-year Ph.D. student in Computer Science at the Univ
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mohhh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/camcue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2407.06192)
+[Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning](https://arxiv.org/pdf/2602.06041)
 
-Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
+**Xuejun Zhang**, Aditi Tiwari, Zhenhailong Wang, Heng Ji
 
-<!-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
 </div>
 </div> 
 
@@ -53,13 +49,17 @@ Ziqiao Ma\*, Jing Ding\*, **Xuejun Zhang**, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuc
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/camcue.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mohhh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning](https://arxiv.org/pdf/2602.06041)
+[Multi-Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2407.06192)
 
-**Xuejun Zhang**, Aditi Tiwari, Zhenhailong Wang, Heng Ji
+Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
 
+<!-- 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 </div>
 </div> 
 
